@@ -46,7 +46,7 @@
   <table width="100">
     <tr>
       <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=dimetileter&theme=dark&hide_border=true" alt="Streak Stats" height="195"/>
+        <img src="https://streak-stats.demolab.com/?user=dimetileter&theme=dark&hide_border=true" alt="Streak Stats" height="195"/>
       </td>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimetileter&theme=dark" height="195" />
